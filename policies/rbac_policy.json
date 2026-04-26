@@ -1,0 +1,12 @@
+{
+  "roles": {
+    "admin": [
+      "cotistas:read",
+      "cotistas:create"
+    ],
+    "analista": [
+      "cotistas:read"
+    ],
+    "viewer": []
+  }
+}
